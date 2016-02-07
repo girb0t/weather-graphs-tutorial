@@ -6,7 +6,6 @@ export default function(state = [], action) {
 
     // NEVER use .push, which would mutate the state
     // return state.concat([action.payload.data]);
-    debugger
     return [ action.payload.data, ...state ]; // returns [city, city, city] NOT [city, [city, city]]
 
   }
