@@ -6,6 +6,7 @@
     "arrowFunctions": true,
     "jsx": true,
     "classes": true,
+    "templateStrings": true,
   },
   "rules": {
     "semi": [2, "always"]
