@@ -3,7 +3,7 @@
 ##About
 Weather app built by following the course at https://www.udemy.com/react-redux.
 
-Things learned/practiced: **Redux**, **React**, **ES2015**
+Things learned/practiced: **Redux**, **React**, **ES2015**, **axios library**
 
 ##Setup
 ```
